@@ -3,6 +3,7 @@
   "type": "component",
   "description": "Slim wrapper of Bootstrap Date range picker.",
   "homepage": "http://www.daterangepicker.com",
+  "keywords": ["date picker", "date range picker", "bootstrap component"],
   "license": "MIT",
   "authors": [
     {
